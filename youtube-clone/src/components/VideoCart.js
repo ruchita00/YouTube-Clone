@@ -1,6 +1,7 @@
 import React from "react";
 
 const VideoCart = ({ videos }) => {
+  console.log(videos);
   const { snippet, statistics } = videos;
   const { thumbnails, title, channelTitle } = snippet;
   return (
@@ -15,6 +16,14 @@ const VideoCart = ({ videos }) => {
         <li>{channelTitle}</li>
         <li>{statistics.viewCount} views</li>
       </ul>
+    </div>
+  );
+};
+
+export const AdVideoCart = ({ videos }) => {
+  return (
+    <div className="p-1 m-1 border border-red-900">
+      <VideoCart videos={videos} />
     </div>
   );
 };
