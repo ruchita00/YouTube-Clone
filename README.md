@@ -1,5 +1,6 @@
 # YouTube-Clone
-![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/c204f421-99df-4249-9c97-5f6a2b84f91f
+![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/e35a647d-422e-49b8-a97c-daec571848a0)
+
 # YouTube Live chat
 ![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/2cd9256d-2307-4cc7-8d7f-7756405e4741)
 
