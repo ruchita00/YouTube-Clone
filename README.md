@@ -20,3 +20,21 @@ Debouncing with 20ms
 - time complexity tro search in array =0(n)
 - time complexity tro search in Object = 0(1)
 - array.indexof()
+
+# Comment section 
+- used recursion
+
+# Live Chat
+
+# web socket : 
+- it is handshake between ui and server
+- it is bidirectional live data
+- not regluar interval
+- example: trading, whatsapp
+
+# API Polling: 
+- ui request the server and data flows from server to ui
+- after interval it is one way connection
+- example: gmail, cricbuzz
+
+# Infinite Scroll
