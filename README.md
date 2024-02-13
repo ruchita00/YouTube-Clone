@@ -42,3 +42,11 @@ Debouncing with 20ms
 # useMeno:
 - useMemo is react hook that lets you cache the result of a calculation between re-renders
 - memoizing the heavy operation
+
+# useCallback 
+- useCallback is a React hook that lets you cache a function definition between re-renders.
+- const cachedFn= useCallback(fn,dependencies)
+
+# useRef
+- useRef is React hook that lets you reference a value thats not needed for rendering.
+- const ref= useRef(initialValue)
