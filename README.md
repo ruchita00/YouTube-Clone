@@ -38,3 +38,7 @@ Debouncing with 20ms
 - example: gmail, cricbuzz
 
 # Infinite Scroll
+
+# useMeno:
+- useMemo is react hook that lets you cache the result of a calculation between re-renders
+- memoizing the heavy operation
