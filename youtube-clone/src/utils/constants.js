@@ -10,3 +10,7 @@ export const YOUTUBE_SEARCH_API =
   "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
 
 // Live Chat >>>> Infinite Scroll >>>>>> Pagination
+
+export const SUBSCRIPTION_API =
+  "https://youtube.googleapis.com/youtube/v3/subscriptions?part=snippet%2CcontentDetails&channelId=UC_x5XG1OV2P6uZZ5FSM9Ttw&key=" +
+  GOOGLE_API_KEY;
