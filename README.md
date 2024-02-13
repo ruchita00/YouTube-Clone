@@ -1,4 +1,12 @@
 # YouTube-Clone
+![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/c204f421-99df-4249-9c97-5f6a2b84f91f
+# YouTube Live chat
+![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/2cd9256d-2307-4cc7-8d7f-7756405e4741)
+
+# Comment Section: Used Recursion
+![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/77ac5fb1-6c4b-4e63-9d32-3a630f21031c)
+
+
 
 # install tailwind
 - npm i -D tailwindcss
