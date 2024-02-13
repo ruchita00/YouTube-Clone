@@ -1,4 +1,5 @@
-# YouTube-Clone (https://65cb1f96bf30ca6bea5fa905--unique-yeot-0491ce.netlify.app/)
+# YouTube-Clone 
+- App Link: (https://65cb1f96bf30ca6bea5fa905--unique-yeot-0491ce.netlify.app/)
 
 ![image](https://github.com/ruchita00/YouTube-Clone/assets/56263059/e35a647d-422e-49b8-a97c-daec571848a0)
 
@@ -60,6 +61,3 @@ Debouncing with 20ms
 # useRef
 - useRef is React hook that lets you reference a value thats not needed for rendering.
 - const ref= useRef(initialValue)
-
-# app link
-https://65cb1f96bf30ca6bea5fa905--unique-yeot-0491ce.netlify.app/
